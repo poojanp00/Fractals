@@ -5,6 +5,15 @@ Implementing several shape classes in Java and using a drawing class to create s
 
 ## Usage
 
+> javac Circle.java 
+
+> javac Rectangle.java 
+
+> javac Triangle.java
+
+> javac Driver.java 
+
+> java Driver
 
 ## Contributing
 Pull requests are welcome. :)
